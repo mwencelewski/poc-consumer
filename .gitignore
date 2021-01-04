@@ -1,0 +1,6 @@
+**/pabot_results
+*.html
+*.xml
+*.txt
+.pabotsuitenames
+.DS_Store
